@@ -1,1 +1,1 @@
-# go
+Blogging has come a long way since its humble beginnings in the 1990s. There is a dispute over the identity of the first blog as we know it today, but the most widely recognized candidate is Links.net, set up by Justin Hall in 1994. Proclaimed as the “founding father of personal bloggers" by the New York Times, Justin continues to update his famous blog:
